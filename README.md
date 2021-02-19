@@ -1,4 +1,4 @@
-# DC300 RPM Display
+# Mini lathe DC300 RPM Display
 
  Original Author: Jeffrey Nelson (nelsonjm@macpod.net)
  
