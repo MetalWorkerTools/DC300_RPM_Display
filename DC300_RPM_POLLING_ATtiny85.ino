@@ -65,7 +65,7 @@
   - Signals compiler to compile receiving package code using fastest code possible (-Os ), allowing for filtering noise
   - Build in double reading of clock levels to filter out noise
   - Made reading of package uninterruptable, no more missing clock pulses ()
-
+  The TM1637 diplay needs a library you can download at: https://github.com/avishorp/TM1637.git
 */
 
 //#pragma GCC optimize ("-Os")
