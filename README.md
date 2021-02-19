@@ -8,7 +8,7 @@
   - Trigger on receive of clockpulse, no need for strobe signal
   - Signals compiler to compile receiving package code using fastest code possible (-Os ), allowing for filtering noise
   - Build in double reading of clock levels to filter out noise
-  - Made reading of package uninterruptable, no more missing clock pulses ()
+  - Made reading of package uninterruptable, no more missing clock pulses
   - Modified to run on a ATTINY85 (digistump) board
   - Modifief for a common TM1637 7 segement display driver
 
