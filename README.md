@@ -1,1 +1,13 @@
 # DC300_RPM_Display
+
+ Original Author: Jeffrey Nelson (nelsonjm@macpod.net)
+ 
+ This is a small arduino sketch for reading the RPM of some Chinese lathes. The original sketch from Jeffrey Nelson is changed so it can run on a ATTINY85 board. 
+
+  Modifications: 
+  - Trigger on receive of clockpulse, no need for strobe signal
+  - Signals compiler to compile receiving package code using fastest code possible (-Os ), allowing for filtering noise
+  - Build in double reading of clock levels to filter out noise
+  - Made reading of package uninterruptable, no more missing clock pulses ()
+  - Modified to run on a ATTINY85 (digistump) board
+  - Modifief for a common TM1637 7 segement display driver
