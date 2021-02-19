@@ -1,4 +1,4 @@
-# DC300_RPM_Display
+# DC300 RPM Display
 
  Original Author: Jeffrey Nelson (nelsonjm@macpod.net)
  
@@ -11,3 +11,7 @@
   - Made reading of package uninterruptable, no more missing clock pulses ()
   - Modified to run on a ATTINY85 (digistump) board
   - Modifief for a common TM1637 7 segement display driver
+
+The display and lathe can be connected to the microcontroller using common dupont wires and 2.54 mm headers.
+The microprocesser and display can use the 5V power supply from the lathe.
+On my lathe, there is a JST-XL connector to the DIN plug for the original display. I removed the DIN plug and used the JST-XL connector to connect the display and the microcontroller. I mounted the display on top of the hole for the DIN plug. 
