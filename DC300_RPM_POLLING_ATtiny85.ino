@@ -60,7 +60,7 @@
   08 = 1111111
   09 = 1011111
 
-  Modifications made by Huub Buis http://www.mwt.messageboard.nl/forum/index.php?
+  Modifications made by Huub Buis http://www.github.com/metalworkertools/DC300_RPM_Display
   - Trigger on receive of clockpulse, no need for strobe signal
   - Signals compiler to compile receiving package code using fastest code possible (-Os ), allowing for filtering noise
   - Build in double reading of clock levels to filter out noise
