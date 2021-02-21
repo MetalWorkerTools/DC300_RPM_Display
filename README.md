@@ -2,7 +2,7 @@
 
  Original Author: Jeffrey Nelson (nelsonjm@macpod.net)
  
- This is a small arduino sketch for reading the RPM of some Chinese lathes. The original sketch from Jeffrey Nelson is changed so it can run on a ATTINY85 board. 
+ This is a small arduino sketch for reading the RPM of some Chinese lathes and mills. The original sketch from Jeffrey Nelson is changed so it can run on a ATTINY85 board. 
 
   Modifications: 
   - Trigger on receive of clockpulse, no need for strobe signal
