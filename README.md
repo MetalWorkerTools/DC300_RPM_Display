@@ -18,4 +18,4 @@ On my lathe, there is a JST-XL connector to the DIN plug for the original displa
 
 The sketch needs a library for the TM1637 display that you can download here [TM1637 library](https://github.com/avishorp/TM1637.git)
 
-A link to more information [Site 1](https://www.homemodelenginemachinist.com/threads/arduino-rpm-application-for-sieg-lathes-and-mills.30694/)
+A link for more information [Site 1](https://www.homemodelenginemachinist.com/threads/arduino-rpm-application-for-sieg-lathes-and-mills.30694/)
